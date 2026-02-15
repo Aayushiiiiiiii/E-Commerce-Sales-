@@ -69,4 +69,5 @@ Improved storytelling using data visualization
 To build a dynamic business intelligence dashboard that helps stakeholders monitor sales performance, identify trends, analyze regional growth, and optimize operational strategies.
 
 📷 Dashboard Preview
+
 https://github.com/Aayushiiiiiiii/E-Commerce-Sales-/blob/main/snapshot%20of%20ecomm%20sales%20dashboard.png
